@@ -6,6 +6,4 @@ This course focuses on structured programming techniques, software development m
 
 ## Practical Work
 
-- **Structured Programming Tasks:** Solve problems using structured programming approaches.
-- **Code Reviews:** Participate in peer reviews to improve code quality and understand common pitfalls.
-- **Mini Project:** Develop a small software application following a specified development methodology.
+The main project involved creating a game similar to Candy Crush. We designed the game mechanics like the  movement to swap two candies, remove them when 3 of them are combined, get spetial candies when an specific number of candies were combined, etc.
